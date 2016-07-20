@@ -12,11 +12,11 @@ We tried to show that a composition of an research paper by persons of the cast 
 of the whitehouse are in correlation with the rating of a movie. Therefore the best and worst rated movies of the
 Imdb database were taken and integrated with the dblp dataset and the list of the whitehouse visitors. The result
 is shown in 5 plots:
-Figure 1: Correlation between the number of visitations of the whitehous by the cast of a movie and the rating of the movie
-Figure 2: Correlation between the number of compositions of research paper by the cast of a movie and the rating of the movie
-Figure 3: Average visits of whitehouse in comparison of top/bottom movies
-Figure 4: Average amount of compositions of research papers (dblp entry) in comparison of top/bottom movies
-Figure 5: Comparison of visitations of the whitehouse and authors of research papers
+ - Figure 1: Correlation between the number of visitations of the whitehous by the cast of a movie and the rating of the movie
+ - Figure 2: Correlation between the number of compositions of research paper by the cast of a movie and the rating of the movie
+ - Figure 3: Average visits of whitehouse in comparison of top/bottom movies
+ - Figure 4: Average amount of compositions of research papers (dblp entry) in comparison of top/bottom movies
+ - Figure 5: Comparison of visitations of the whitehouse and authors of research papers
 
 Contributor: Alexander Szilagyi and Dominik Bäßler
 
