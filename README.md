@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project of Group16}
+
+# 1:Project of Group16
 
 This data engineering project is based on the sources of the movie database "imdb" the visitor list 
 of the "whitehouse" and the dblp database, which lists the researchers.
@@ -42,7 +41,3 @@ The following datasets have to be located in the directory of the script:
 
 For the usage of this tool follow the installation instructions of the previous chapter
 and invoke the IPython Notebook (solution_notebook).
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
