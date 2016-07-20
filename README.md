@@ -7,6 +7,8 @@ of the "whitehouse" and the dblp database, which lists the researchers.
 The aim of the integration of this three sources is to show an correlation regarding the visitation
 of the whitehouse, the rating of movies and the composition of an research paper by the cast of the movie.
 
+**Contributor: Alexander Szilagyi and Dominik Bäßler**
+
 ## Description
 We tried to show that a composition of an research paper by persons of the cast of a movie and/or the visitation
 of the whitehouse are in correlation with the rating of a movie. Therefore the best and worst rated movies of the
@@ -18,7 +20,6 @@ is shown in 5 plots:
  - Figure 4: Average amount of compositions of research papers (dblp entry) in comparison of top/bottom movies
  - Figure 5: Comparison of visitations of the whitehouse and authors of research papers
 
-Contributor: Alexander Szilagyi and Dominik Bäßler
 
 ## Installation
 For preparation of the environment Python (min. 2.7) have to be installed and the following packages have to be added
