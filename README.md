@@ -1,5 +1,5 @@
 
-# 1:Project of Group16
+# Project of lecture Data Engineering of Group16 (SS16)
 
 This data engineering project is based on the sources of the movie database "imdb" the visitor list 
 of the "whitehouse" and the dblp database, which lists the researchers.
