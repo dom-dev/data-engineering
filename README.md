@@ -24,9 +24,7 @@ is shown in 5 plots:
 ## Installation
 For preparation of the environment Python (min. 2.7) have to be installed and the following packages have to be added
 to the python installation:
- - from xml.sax import make_parser, handler
  - BeautifulSoup4 (bs4)
- - django
  - pandas
  - lxml
  - matplotlib.pyplot
