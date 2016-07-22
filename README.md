@@ -22,7 +22,7 @@ is shown in 5 plots:
 
 
 ## Installation
-For preparation of the environment Python (min. 2.7) have to be installed and the following packages have to be added
+For preparation of the environment Python (min. 2.7) have to be installed (we are using latest version of Anaconda "https://docs.continuum.io/anaconda/") and the following packages have to be added
 to the python installation:
  - BeautifulSoup4 (bs4)
  - pandas
@@ -34,7 +34,7 @@ to the python installation:
 The following datasets have to be located in the directory of the script:
  - dblp.dtd
  - dblp.xml
- - White_House_Visitor_Records_Request.csv
+ - White_House_Visitor_Records_Request.csv (dataset of the whitehous visits in csv)
 
 ## Usage
 
